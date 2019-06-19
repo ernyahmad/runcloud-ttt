@@ -1,3 +1,3 @@
 <?php
-    echo "Seamat Hari Raya!";
+    echo "Selamat Hari Raya!";
 ?>
